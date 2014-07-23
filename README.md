@@ -6,3 +6,4 @@ New Axosoft API Example
 5-5 14.2
 5-51 14.2 Defects
 5-52 14.2 Incidents
+5-52 Service Defects
